@@ -19,7 +19,17 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             Evaluacion01Theme {
+                //Ejercicio 01
                 calcularSalario()
+
+                //Ejercicio 02
+                //promedioPracticas()
+
+                //Ejercicio 03
+                //conversionTiempo()
+
+                //Ejercicio 04
+                //SumarSerie()
             }
         }
     }
